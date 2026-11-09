@@ -2,10 +2,21 @@
 <p align="center"><b>Product engineering from Kerala, India</b>: web platforms, custom software, IoT and immersive AR/VR</p>
 
 <p align="center">
-  <a href="https://breaktroughf1.com"><img src="https://img.shields.io/badge/Website-breaktroughf1.com-0A0A0A?style=for-the-badge" alt="Website"/></a>
-  <a href="https://www.linkedin.com/company/breaktroughf1"><img src="https://img.shields.io/badge/LinkedIn-BreaktroughF1_LLP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/breaktroughf1_llp/"><img src="https://img.shields.io/badge/Instagram-@breaktroughf1__llp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:info@breaktroughf1.com"><img src="https://img.shields.io/badge/info@breaktroughf1.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+ <a href="https://breaktroughf1.com">
+    <img src="https://img.shields.io/badge/Website-breaktroughf1.com-0A0A0A?style=for-the-badge" alt="Website"/>
+  </a>
+  <a href="https://breaktroughf1.com/open-source">
+    <img src="https://img.shields.io/badge/Open_Source-Explore_Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+  </a>
+  <a href="https://www.linkedin.com/company/breaktroughf1">
+    <img src="https://img.shields.io/badge/LinkedIn-BreaktroughF1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/breaktroughf1_llp/">
+    <img src="https://img.shields.io/badge/Instagram-@breaktroughf1__llp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:info@breaktroughf1.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -38,13 +49,25 @@
 - **IT consulting and technical support**: architecture reviews, audits and ongoing support
 
 ## Open source
+
 | Repository | About |
 |---|---|
+| [flutter_mfa](https://github.com/Breaktroughf1/flutter_mfa) | Multi-factor authentication toolkit for Flutter and Dart applications |
 | [flutter_ar_vr](https://github.com/Breaktroughf1/flutter_ar_vr) | AR and VR integration for Flutter developers |
 | [SafeSite](https://github.com/Breaktroughf1/SafeSite) | Construction site safety: RFID attendance combined with safety-gear detection |
 | [Entrypoint-Attendance-Control](https://github.com/Breaktroughf1/Entrypoint-Attendance-Control) | RFID door lock with automated attendance tracking |
 | [emotion-tracker](https://github.com/Breaktroughf1/emotion-tracker) | Web app that analyses and records emotions through facial recognition |
 | [Emotion-Detection](https://github.com/Breaktroughf1/Emotion-Detection) | Real-time CNN emotion detection trained on FER-2013 |
+
+**Flutter MFA packages:**
+
+- [flutter_mfa](https://pub.dev/packages/flutter_mfa)
+- [flutter_mfa_core](https://pub.dev/packages/flutter_mfa_core)
+- [flutter_mfa_ui](https://pub.dev/packages/flutter_mfa_ui)
+- [flutter_mfa_qr](https://pub.dev/packages/flutter_mfa_qr)
+- [flutter_mfa_platform_interface](https://pub.dev/packages/flutter_mfa_platform_interface)
+
+Explore all our projects: [breaktroughf1.com/open-source](https://breaktroughf1.com/open-source)
 
 ## Founders
 
