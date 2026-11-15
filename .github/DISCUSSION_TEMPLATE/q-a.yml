@@ -1,0 +1,46 @@
+title: "[Q&A] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask anything about our open-source packages or tools. Search existing discussions first, someone may have asked already.
+        **Found a security problem?** Don't post it here. Report it privately: https://github.com/Breaktroughf1/flutter_mfa/security/advisories/new
+  - type: dropdown
+    id: project
+    attributes:
+      label: Project
+      options:
+        - flutter_mfa
+        - flutter_mfa_core
+        - flutter_mfa_ui
+        - flutter_mfa_qr
+        - flutter_mfa_platform_interface
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Versions
+      description: Package version, plus Flutter/Dart (`flutter --version`) if relevant.
+      placeholder: "flutter_mfa 0.2.1, Flutter 3.35.2"
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options: [Android, iOS, Web, Dart server, Not platform-specific]
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What are you trying to do, what did you try, and what happened?
+    validations:
+      required: true
+  - type: textarea
+    id: code
+    attributes:
+      label: Code or logs (optional)
+      description: A minimal snippet helps us answer faster. Remove secrets, OTP seeds and personal data.
+      render: dart
