@@ -1,0 +1,29 @@
+title: "[Show and tell] "
+body:
+  - type: markdown
+    attributes:
+      value: Built something with our packages? Share it, we'd like to see it.
+  - type: input
+    id: what
+    attributes:
+      label: What you built
+      placeholder: "A banking app with TOTP sign-in"
+    validations:
+      required: true
+  - type: input
+    id: packages
+    attributes:
+      label: Packages used
+      placeholder: "flutter_mfa, flutter_mfa_ui"
+  - type: input
+    id: link
+    attributes:
+      label: Link (optional)
+      description: App store page, repo, demo or write-up.
+  - type: textarea
+    id: details
+    attributes:
+      label: Tell us about it
+      description: What worked well, what was hard, and screenshots if you can share them.
+    validations:
+      required: true
