@@ -40,7 +40,6 @@
 | **Meat U There** | In development |
 | **Code Break** | In development |
 | **[flutter_ar_vr](https://github.com/Breaktroughf1/flutter_ar_vr)**: AR and VR integration plugin for Flutter | Open source, in development |
-| **Flutter MFA plugin**: multi-factor authentication for Flutter apps | In development |
 
 ## What we build for clients
 - **Web development and design**: fast, SEO-ready sites and web apps
@@ -59,7 +58,7 @@
 | [emotion-tracker](https://github.com/Breaktroughf1/emotion-tracker) | Web app that analyses and records emotions through facial recognition |
 | [Emotion-Detection](https://github.com/Breaktroughf1/Emotion-Detection) | Real-time CNN emotion detection trained on FER-2013 |
 
-**Flutter MFA packages:**
+**Flutter MFA packages** (published on pub.dev under the verified breaktroughf1.com publisher):
 
 - [flutter_mfa](https://pub.dev/packages/flutter_mfa)
 - [flutter_mfa_core](https://pub.dev/packages/flutter_mfa_core)
@@ -68,6 +67,10 @@
 - [flutter_mfa_platform_interface](https://pub.dev/packages/flutter_mfa_platform_interface)
 
 Explore all our projects: [breaktroughf1.com/open-source](https://breaktroughf1.com/open-source)
+
+## Community
+
+Questions, ideas and things you've built with our packages belong in **[GitHub Discussions](https://github.com/orgs/Breaktroughf1/discussions)**: ask in Q&A, suggest features in Ideas, and share your work in Show and tell. Bugs go to the project's issues, and security reports go privately (see [how to get help](https://github.com/Breaktroughf1/.github/blob/main/SUPPORT.md)).
 
 ## Founders
 
