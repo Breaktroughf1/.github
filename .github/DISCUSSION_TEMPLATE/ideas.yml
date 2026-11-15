@@ -1,0 +1,37 @@
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: Suggest a feature or an improvement. Upvote existing ideas instead of posting duplicates.
+  - type: dropdown
+    id: project
+    attributes:
+      label: Project
+      options:
+        - flutter_mfa
+        - flutter_mfa_core
+        - flutter_mfa_ui
+        - flutter_mfa_qr
+        - New package or tool
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What can't you do today, or what is harder than it should be?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you'd like
+      description: How would it work? API sketches are welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Workarounds you've tried (optional)
