@@ -51,6 +51,7 @@
 
 | Repository | About |
 |---|---|
+| [lockward](https://github.com/Breaktroughf1/lockward) | A lockfile and policy gate for the skills, MCP servers, hooks and rules files AI coding agents load. Fails CI when anything changes without approval. Offline, Apache-2.0 |
 | [flutter_mfa](https://github.com/Breaktroughf1/flutter_mfa) | Multi-factor authentication toolkit for Flutter and Dart applications |
 | [flutter_ar_vr](https://github.com/Breaktroughf1/flutter_ar_vr) | AR and VR integration for Flutter developers |
 | [SafeSite](https://github.com/Breaktroughf1/SafeSite) | Construction site safety: RFID attendance combined with safety-gear detection |
@@ -65,6 +66,8 @@
 - [flutter_mfa_ui](https://pub.dev/packages/flutter_mfa_ui)
 - [flutter_mfa_qr](https://pub.dev/packages/flutter_mfa_qr)
 - [flutter_mfa_platform_interface](https://pub.dev/packages/flutter_mfa_platform_interface)
+
+**Lockward** (Go, Apache-2.0) installs with `brew install breaktroughf1/tap/lockward`, `npx lockward`, `uvx lockward`, `go install`, a signed container image, or in CI as the [Lockward Verify](https://github.com/marketplace/actions/lockward-verify) GitHub Action.
 
 Explore all our projects: [breaktroughf1.com/open-source](https://breaktroughf1.com/open-source)
 
